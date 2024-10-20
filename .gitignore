@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+# [neo]vi[m] swap files
+*.swp
+*.swo
